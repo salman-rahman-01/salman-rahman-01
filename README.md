@@ -1,9 +1,6 @@
 <h1 align="center">Assalamualaikum there, I'm Salman Rahman!👋</h1>
 <h3 align="center">A passionate full stack developer from Bangladesh</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=salman-rahman-01&label=Profile%20views&color=0e75b6&style=flat" alt="salman-rahman-01" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=salman-rahman-01" alt="salman-rahman-01" /></a> </p>
 
 - 🔭 I’m currently working in [Innovative Research & Consultancy](http://www.ircltd.com.bd/)
 
