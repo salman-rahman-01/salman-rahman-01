@@ -2,9 +2,9 @@
 <h3 align="center">A passionate full stack developer from Bangladesh</h3>
 
 
-- 🔭 I’m currently working in [Innovative Research & Consultancy](http://www.ircltd.com.bd/)
+- 🔭 I’m currently working in [Keybreo](https://keybreo.com/)
 
-- 🌱 I’m currently learning **Full stack development, Programming Hero**
+- 🌱 I’m currently learning **PHP**
 
 - 👯 I’m looking to collaborate on **content creators**
 
