@@ -1,5 +1,5 @@
 <h1 align="center">Assalamualaikum there, I'm Salman Rahman!👋</h1>
-<h3 align="center">A passionate full stack developer from Bangladesh</h3>
+<h3 align="center">A passionate web developer from Bangladesh</h3>
 
 
 - 🔭 I’m currently working in [Keybreo](https://keybreo.com/)
