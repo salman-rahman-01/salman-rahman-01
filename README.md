@@ -2,9 +2,7 @@
 <h3 align="center">A passionate web developer from Bangladesh</h3>
 
 
-- 🔭 I’m currently working in [Keybreo](https://keybreo.com/)
-
-- 🌱 I’m currently learning **PHP**
+- 🔭 I’m currently working on **React Native**
 
 - 👯 I’m looking to collaborate on **content creators**
 
