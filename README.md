@@ -1,8 +1,8 @@
-<h1 align="center">Assalamualaikum there, I'm Salman Rahman!👋</h1>
-<h3 align="center">A passionate web developer from Bangladesh</h3>
+<h1 align="center">Assalamualaikum there, I'm Mohammad Salman Rahman!👋</h1>
+<h3 align="center">A passionate Full-stack developer from Bangladesh</h3>
 
 
-- 🔭 I’m currently working on **React Native**
+- 🔭 I’m currently working on **Python**
 
 - 👯 I’m looking to collaborate on **content creators**
 
