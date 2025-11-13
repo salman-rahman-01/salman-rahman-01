@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full-stack Developer & Data Analysist from Bangladesh</h3>
 
 
-- 🔭 I’m currently working on **Python**
+- 🔭 I’m currently working on **Data Analysis**
 
 - 👯 I’m looking to collaborate on **content creators**
 
