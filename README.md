@@ -1,5 +1,5 @@
 <h1 align="center">Assalamualaikum there, I'm Mohammad Salman Rahman!👋</h1>
-<h3 align="center">A passionate Full-stack Developer & Data Analysist from Bangladesh</h3>
+<h3 align="center">A passionate Full-stack Developer from Bangladesh</h3>
 
 
 - 🔭 I’m currently working in **Betopia Group**
